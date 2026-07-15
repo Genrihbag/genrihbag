@@ -42,8 +42,9 @@ component architecture, and getting sharper at algorithms.
 
 | Project | What it is | Stack |
 |---|---|---|
-| [kinder-clinic.ru](https://kinder-clinic.ru) | Medical web platform — online booking + patient dashboard | React, TypeScript |
-| [dentboard.ru](https://dentboard.ru) | Commercial website for a clinic direction | React, TypeScript |
+| [kinder-clinic.ru](https://kinder-clinic.ru) | Family & pediatric clinic — service catalog, doctor profiles, online booking & patient dashboard | React · TypeScript |
+| [dentboard.ru](https://dentboard.ru) | Staff workspace (SaaS) for dental-clinic teams — internal management web app | React · TypeScript |
+| [медсвязи.рф](https://xn--b1adckft1b3h.xn--p1ai/) | Educational community for doctors — lectures, podcasts, seminars & internships | React · TypeScript |
 
 > Pin your best repositories below so visitors see real code, not just links.
 
