@@ -48,9 +48,9 @@ component architecture, and getting sharper at algorithms.
 | Project | What it is | Stack |
 |---|---|---|
 | Poligon | EdTech platform (monorepo) — live lesson rooms (WebSocket), video calls (LiveKit), rich-text editor, scheduling, admin panel | React 19 · TS · Node · Express · PostgreSQL · Docker |
-| [kinder-clinic.ru](https://kinder-clinic.ru) | Family & pediatric clinic — service catalog, doctor profiles, online booking & patient dashboard | React · TypeScript |
+| [kinder-clinic.ru](https://kinder-clinic.ru) | Family & pediatric clinic — service catalog, doctor profiles, online booking | MODX CMS · JavaScript · CSS |
 | [dentboard.ru](https://dentboard.ru) | Multi-tenant SaaS / ERP for dental labs — production, warehouse, finance & client portal | Next.js · NestJS · Frappe/ERPNext · Docker |
-| [медсвязи.рф](https://xn--b1adckft1b3h.xn--p1ai/) | Educational community for doctors — lectures, podcasts, seminars & internships | React · TypeScript |
+| [медсвязи.рф](https://xn--b1adckft1b3h.xn--p1ai/) | Educational community for doctors — lectures, podcasts, seminars & internships | Tilda · JavaScript |
 
 ## 🔗 Links
 

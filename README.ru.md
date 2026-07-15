@@ -48,9 +48,9 @@ Frontend-разработчик из Краснодара — готов к пе
 | Проект | Что это | Стек |
 |---|---|---|
 | Poligon | EdTech-платформа (монорепо) — онлайн-занятия (WebSocket), видеозвонки (LiveKit), редактор материалов, расписание, админ-панель | React 19 · TS · Node · Express · PostgreSQL · Docker |
-| [kinder-clinic.ru](https://kinder-clinic.ru) | Детская и семейная клиника — каталог услуг, врачи, онлайн-запись и личный кабинет пациента | React · TypeScript |
+| [kinder-clinic.ru](https://kinder-clinic.ru) | Детская и семейная клиника — каталог услуг, врачи, онлайн-запись | MODX CMS · JavaScript · CSS |
 | [dentboard.ru](https://dentboard.ru) | Мульти-тенантный SaaS / ERP для зуботехнических лабораторий — производство, склад, финансы, портал клиента | Next.js · NestJS · Frappe · Docker |
-| [медсвязи.рф](https://xn--b1adckft1b3h.xn--p1ai/) | Образовательное сообщество для врачей — лекции, подкасты, семинары, стажировки | React · TypeScript |
+| [медсвязи.рф](https://xn--b1adckft1b3h.xn--p1ai/) | Образовательное сообщество для врачей — лекции, подкасты, семинары, стажировки | Tilda · JavaScript |
 
 ## 🔗 Контакты
 
