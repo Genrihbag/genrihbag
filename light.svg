@@ -181,7 +181,7 @@
       <g opacity="0"><animate attributeName="opacity" to="1" begin="1.8s" dur="0.5s" fill="freeze"/>
         <text x="502" y="298">&#129513; <tspan fill="#475569">Focus:</tspan> React · TypeScript · UI engineering</text></g>
       <g opacity="0"><animate attributeName="opacity" to="1" begin="2.1s" dur="0.5s" fill="freeze"/>
-        <text x="502" y="330">&#127760; <tspan fill="#0891B2">kinder-clinic.ru</tspan> · <tspan fill="#0891B2">dentboard.ru</tspan></text></g>
+        <text x="502" y="330">&#127760; <tspan fill="#0891B2">kinder-clinic.ru</tspan> · <tspan fill="#0891B2">dentboard.ru</tspan> · <tspan fill="#0891B2">медсвязи.рф</tspan></text></g>
       <g opacity="0"><animate attributeName="opacity" to="1" begin="2.4s" dur="0.5s" fill="freeze"/>
         <text x="502" y="362">&#9993;&#65039; <tspan fill="#475569">genrihbag@gmail.com</tspan></text></g>
     </g>
