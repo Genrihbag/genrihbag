@@ -1,5 +1,8 @@
 <!-- Language switcher -->
-<p align="right"><a href="./README.ru.md">Русский</a> · <b>English</b></p>
+<p align="right">
+  <a href="./README.ru.md"><img alt="Русский" src="https://img.shields.io/badge/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9-4B5563?style=for-the-badge"></a>
+  <a href="./README.md"><img alt="English" src="https://img.shields.io/badge/English-2563EB?style=for-the-badge"></a>
+</p>
 
 <!-- Hero banner: auto-switches with GitHub light/dark theme -->
 <picture>
@@ -44,12 +47,7 @@ component architecture, and getting sharper at algorithms.
 
 > Pin your best repositories below so visitors see real code, not just links.
 
-## 📊 GitHub stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=genrihbag&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=genrihbag&layout=compact&theme=tokyonight&hide_border=true" alt="top langs"/>
-</p>
+## 🔗 Links
 
 <p align="center">
   <a href="https://github.com/genrihbag">GitHub</a> ·

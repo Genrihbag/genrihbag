@@ -1,5 +1,8 @@
 <!-- Переключатель языка -->
-<p align="right"><b>Русский</b> · <a href="./README.md">English</a></p>
+<p align="right">
+  <a href="./README.ru.md"><img alt="Русский" src="https://img.shields.io/badge/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9-2563EB?style=for-the-badge"></a>
+  <a href="./README.md"><img alt="English" src="https://img.shields.io/badge/English-4B5563?style=for-the-badge"></a>
+</p>
 
 <!-- Баннер: сам переключается со светлой/тёмной темой GitHub -->
 <picture>
@@ -44,12 +47,7 @@ Frontend-разработчик из Краснодара — готов к пе
 
 > Закрепите лучшие репозитории ниже, чтобы посетители видели реальный код, а не только ссылки.
 
-## 📊 Статистика GitHub
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=genrihbag&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=ru" alt="статистика"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=genrihbag&layout=compact&theme=tokyonight&hide_border=true" alt="языки"/>
-</p>
+## 🔗 Контакты
 
 <p align="center">
   <a href="https://github.com/genrihbag">GitHub</a> ·
