@@ -1,3 +1,6 @@
+<!-- Language switcher -->
+<p align="right"><a href="./README.ru.md">Русский</a> · <b>English</b></p>
+
 <!-- Hero banner: auto-switches with GitHub light/dark theme -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
@@ -10,15 +13,15 @@
 ## 👋 About me
 
 Frontend developer based in Krasnodar, Russia — open to Moscow / Saint Petersburg and remote.
-I build web interfaces with **React** and **TypeScript**: from patient-facing medical platforms
+I build web interfaces with **React** and **TypeScript** — from customer-facing platforms
 to internal admin panels and commercial sites. Currently focused on UI engineering, clean
 component architecture, and getting sharper at algorithms.
 
-- 🏥 Frontend developer at **Kinder Clinic** (medical clinic network) since June 2025
+- 💼 1+ year of commercial frontend experience
 - 🧩 Working with React · TypeScript · Vue.js · Node.js
 - 🧠 Solving algorithm problems on LeetCode, building side projects & taking freelance work
 - 🎓 Kuban State University, 2025
-- 📫 Reach me: **genrihbag@gmail.com** · [Telegram](https://t.me/genrihbag)
+- 📫 Reach me: **genrihbag@gmail.com** · [Telegram](https://t.me/GENBGG)
 
 ## 🛠️ Tech stack
 
@@ -50,7 +53,6 @@ component architecture, and getting sharper at algorithms.
 
 <p align="center">
   <a href="https://github.com/genrihbag">GitHub</a> ·
-  <a href="https://www.linkedin.com/in/genrihbag">LinkedIn</a> ·
-  <a href="https://t.me/genrihbag">Telegram</a> ·
+  <a href="https://t.me/GENBGG">Telegram</a> ·
   <a href="mailto:genrihbag@gmail.com">Email</a>
 </p>
